@@ -1,8 +1,19 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2e1a,50:0d3d24,100:00ff88&height=220&section=header&text=Jakaria&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2e1a,100:00ff88&height=120&section=header&text=codewithjakaria&fontSize=35&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps;Exploring+Next.js+%26+DevOps;Clean+code+is+the+best+documentation" alt="Typing SVG" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-codewithjakaria-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithjakaria)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithjakaria)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://codewithjakaria.vercel.app)
+
 </div>
+
 <br/>
 
 ```javascript
